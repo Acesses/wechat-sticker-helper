@@ -7,7 +7,7 @@
   - 根据官方要求生成上传对应的文件夹
   - resize
   - crop
-- web
+- web（插件版）
   - 根据官方要求生成上传对应的文件夹
   - resize
   - crop
